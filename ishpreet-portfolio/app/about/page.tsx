@@ -1,61 +1,37 @@
-export default function Projects() {
+export default function About() {
     return (
         <main>
-            <h1>My Projects</h1>
+            <h1>About Me</h1>
 
-            <p>
-                Here are some examples of the projects that I have undertaken during my web design and development training.
-            </p>
-
-            <section className="cardContainer">
-                <div className="card">
+            <section className="aboutSection">
+                <div>
                     <img
-                        src="/Screenshot 2026-10-05 at 5.46.18 PM.png"
-                        alt="CSS Grid Project"
-                        className="projectImage"
+                        src="/logo2.jpeg"
+                        alt="Ishpreet Singh"
+                        className="profileImage"
                     />
-
-                    <h3>CSS Grid Assignemnt</h3>
-
-                    <p>
-                        This project helped me practice creating page layouts
-                        By using CSS Grid, I dealt with various sections such as
-                        Including a header, a navigation bar, a sidebar, the main content area, and a footer.
-                    </p>
                 </div>
 
-                <div className="card">
-                    <img
-                        src="/website.png"
-                        alt="WordPress Project"
-                        className="projectImage"
-                    />
-
-                    <h3>WordPress Live Hosting Site</h3>
-
+                <div className="aboutText">
                     <p>
-                        I created a WordPress website using themes, pages,
-                        categories and posts. This project helped me understand
-                        how websites can be created and managed using WordPress.
+                       Ishpreet This Side I am  currently pursuing my studies in Interactive Media Design - Web
+                       at gerogian college 
+
                     </p>
-                </div>
-
-                <div className="card">
-                    <img
-                        src="/CRUD.png"
-                        alt="CRUD Project"
-                        className="projectImage"
-                    />
-
-                    <h3>CRUD File</h3>
 
                     <p>
+                       I like to learn about website development with HTML, CSS,
+                        JavaScript, React, and Next.js.
+                    </p>
 
-                        I developed a CRUD application with PHP and MySQL.
-                        The application enables users to create, view, edit and delete
-                        data in a database. This project helped me improve my skills
-                         in working with forms, databases and programming on the server side.
+                    <p>
+                        I enjoy designing websites that are easy to navigate and respond well to user interaction.
+                    </p>
 
+                    <p>
+                        My personal mission is to continue improving my design
+                        and development skills and create useful digital
+                        experiences.
                     </p>
                 </div>
             </section>
