@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+Ishpreet-portfolio
+About this Assignment
+It is my personal portfolio website for the assignment of COMP2112 (Georgian College).
+
+This site is meant to get you familiar with myself, present my technical abilities and share some of the project work I've done in my studies.
+
+And for this assignemnt I use render live hosting service which we cover in the class that how to setup that so now i used this to in my assignment.
+Live render link
+https://project-2-auly.onrender.com/
+GitHub Repository:
+https://github.com/ishpreetsidhu13-dev/Project
+
