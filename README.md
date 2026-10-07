@@ -38,11 +38,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## About Portfolio
 Ishpreet-portfolio
 About this Assignment
+This assignment covers home, about, contact, skills, and project, by that I got the chance to show my journy also well as what I learned
+
 It is my personal portfolio website for the assignment of COMP2112 (Georgian College).
 
-This site is meant to get you familiar with myself, present my technical abilities and share some of the project work I've done in my studies.
+This site is meant to get you familiar with me, present my technical abilities, and share some of the project work I've done in my studies.
 
-And for this assignemnt I use render live hosting service which we cover in the class that how to setup that so now i used this to in my assignment.
+Moreover, I try to cover all the class topics with the help of using professor repo.
+
+
+https://github.com/ifotn/comp2112-react-blog-f26/tree/master
+
+
+And for this assignment, I use render live hosting service, which we covered in class that how to setup that, so now I used this in my assignment.
+
+##LINKS
 Live render link
 https://project-2-auly.onrender.com/
 GitHub Repository:
